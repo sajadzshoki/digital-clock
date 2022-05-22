@@ -1,0 +1,17 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,52,89,1) 0%, rgba(84,0,82,1) 97%);
+}
+
+.clock{
+    color: white;
+    font-family: monospace;
+    display: flex;
+    justify-content:center ;
+    /* align-items: center;  why not working ?!!!!!!!!!!!!*/
+    margin-top: 400px;
+    font-size: 100px;
+    text-shadow: 10px 10px 5px rgb(0, 0, 0, 0.7);
+    
+
+}
